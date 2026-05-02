@@ -1,0 +1,20 @@
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Project Specific Ignored Folders/Files
+output/
+raw_generated.png
+
+# IDEs
+.vscode/
+.idea/
