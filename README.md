@@ -37,7 +37,7 @@ Get one from: https://aistudio.google.com/
 Place a bouquet/product image in the `input/` directory:
 ```
 input/
-  └── pink_carnations.jpg
+  └── pink_carnations.jpg..
 ```
 
 ### 4. Add FNP Logo (Optional)
