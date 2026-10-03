@@ -87,7 +87,7 @@ The pipeline shifts creative direction based on the detected event:
 | Diwali | Opulent, radiant, festival of lights | "Light a thousand blooms" |
 | Raksha Bandhan | Sibling warmth, festive joy | "Tied with petals, sealed with love" |
 | Anniversary | Timeless elegance, classic luxury | "Still blooming, still us" |
-| Default | Fresh, joyful, premium everyday | "Bloom, delivered" | "new version" | "New Me" |
+| Default | Fresh, joyful, premium everyday | "Bloom, delivered" | "new version" |
 
 ## 📋 Output
 The pipeline generates:
