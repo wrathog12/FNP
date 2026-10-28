@@ -1,6 +1,6 @@
 # FNP Premium Ad Automation Pipeline — Event Intelligence Layer
 
-> **Generate campaign-ready, luxury-occasion premium ad assets** for Ferns N Petals by detecting upcoming gifting events and crafting event-aware creatives with AI.
+> **Generate campaign-ready, luxury-occasion premium ad assets** for Ferns N Petals by detecting upcoming gifting events and crafting event-aware creatives with AI and GenAI
 
 ## 🏗️ Architecture
 
